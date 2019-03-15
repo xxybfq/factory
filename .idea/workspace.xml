@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dbea329-7668-4184-a6b9-08db7f5334f1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1644298016">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ft" value="75" />
+          <entry key="java" value="456" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="456" />
+          <entry key="VTL" value="75" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-462338824">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="828" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="828" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Calendar" value="1" />
+          <entry key="abstractfactory" value="2" />
+          <entry key="class" value="3" />
+          <entry key="factory" value="1" />
+          <entry key="factory/src/com/lf/pattern/factory/methodfactory" value="1" />
+          <entry key="java" value="50" />
+          <entry key="methodfactory" value="2" />
+          <entry key="simplefactory" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="50" />
+          <entry key="UML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="com.lf.design.pattern.factory" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>adapterPreference</find>
+      <find>fields</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/simplefactory/SimpleFactoryTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/A.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/T3.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/T2.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/ReptileAminal.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/simplefactory/AmimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/simplefactory/AnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/IAnimal.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/MammalAnimal.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/ReptileAminal.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/ReptileAminalFacotry.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/MammalFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/IHabit.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/MammalAnimalHabitImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/ReptileAnimalHabitImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/ILife.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/ReptileAnimalLifeImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/IAnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/MammalAnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/AbstractFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/MammalAnimalLifeImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/ReptileAnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/AnimalFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/simplefactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/IAnimalFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-44" />
+    <option name="y" value="14" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.lf.design.pattern.factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.lf.design.pattern.factory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.lf.design.pattern.factory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.lf.design.pattern.factory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.lf.design.pattern.factory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="methodfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.lf.design.pattern.factory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.lf.design.pattern.factory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+              <item name="AnimalFactory" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.lf.design.pattern.factory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+              <item name="SimpleFactoryTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="design" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="design" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="pattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="design" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="pattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="factory" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="design" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="pattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="factory" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="design" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="pattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="factory" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="design" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="pattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="factory" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lf" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="design" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="pattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="factory" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lf" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pattern" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="com.lf.design.pattern.factory" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="lf" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="design" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="pattern" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="factory" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lf" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pattern" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="factory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="beanfacto&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.model.AbstractWrapperBeanGenerator.BeanMemberFactory" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552658816833" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lf.pattern.factory.abstractfactory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SimpleFactoryTest">
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lf.pattern.factory.abstractfactory.AbstractFactoryTest" />
+      <module name="com.lf.design.pattern.factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lf.pattern.factory.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lf.pattern.factory.methodfactory.AnimalFactoryTest" />
+      <module name="com.lf.design.pattern.factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lf.pattern.factory.methodfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="com.lf.design.pattern.factory" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lf.pattern.factory.simplefactory.SimpleFactoryTest" />
+      <module name="com.lf.design.pattern.factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lf.pattern.factory.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SimpleFactoryTest" />
+      <item itemvalue="Application.AnimalFactoryTest" />
+      <item itemvalue="Application.AbstractFactoryTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleFactoryTest" />
+        <item itemvalue="Application.AbstractFactoryTest" />
+        <item itemvalue="Application.AnimalFactoryTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbea329-7668-4184-a6b9-08db7f5334f1" name="Default Changelist" comment="" />
+      <created>1552142623893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552142623893</updated>
+      <workItem from="1552142668984" duration="6181000" />
+      <workItem from="1552190370536" duration="14053000" />
+      <workItem from="1552305742141" duration="5006000" />
+      <workItem from="1552658720963" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25558000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251354" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" sideWeight="0.37486458" side_tool="true" visible="true" weight="0.25799572" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23185265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/T3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/T2.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="79" column="32" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/ReptileAminal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/com/sun/xml/internal/ws/model/AbstractWrapperBeanGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1330">
+          <caret line="50" column="138" selection-start-line="50" selection-start-column="110" selection-end-line="50" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/IHabit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/ILife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/ReptileAminalFacotry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/MammalAnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/MammalAnimalHabitImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/MammalAnimalLifeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/ReptileAnimalHabitImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/ReptileAnimalLifeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="354" column="54" selection-start-line="354" selection-start-column="54" selection-end-line="354" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5873">
+          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="833" column="41" lean-forward="true" selection-start-line="833" selection-start-column="41" selection-end-line="833" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lf.pattern.factory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lf.pattern.factory</OriginalElement>
+          <nodes>
+            <node x="147.0" y="81.0">com.lf.pattern.factory.MammalAnimal</node>
+            <node x="0.0" y="309.0">com.lf.pattern.factory.simplefactory</node>
+            <node x="94.25" y="0.0">com.lf.pattern.factory.IAnimal</node>
+            <node x="0.0" y="157.0">com.lf.pattern.factory.abstractfactory</node>
+            <node x="0.0" y="81.0">com.lf.pattern.factory.ReptileAminal</node>
+            <node x="0.0" y="233.0">com.lf.pattern.factory.methodfactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.lf.pattern.factory.MammalAnimal" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-15.5" />
+              <point x="216.0" y="56.0" />
+              <point x="162.5" y="56.0" />
+              <point x="22.75" y="15.5" />
+            </edge>
+            <edge source="com.lf.pattern.factory.ReptileAminal" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-15.5" />
+              <point x="63.5" y="56.0" />
+              <point x="117.0" y="56.0" />
+              <point x="-22.75" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-318.0" y="83.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/IAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/MammalAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/IdeaProjects/com.lf.design.pattern.factory/src/com/lf/pattern/factory/methodfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/IAnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lf.pattern.factory.abstractfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lf.pattern.factory.abstractfactory</OriginalElement>
+          <nodes>
+            <node x="10.5" y="145.5">com.lf.pattern.factory.abstractfactory.MammalAnimalHabitImpl</node>
+            <node x="430.5" y="145.5">com.lf.pattern.factory.abstractfactory.MammalAnimalLifeImpl</node>
+            <node x="633.1964285714286" y="281.0">com.lf.pattern.factory.abstractfactory.ReptileAnimalFactory</node>
+            <node x="237.5" y="134.0">com.lf.pattern.factory.abstractfactory.IAnimalFactory</node>
+            <node x="122.6964285714285" y="408.0">com.lf.pattern.factory.abstractfactory.AbstractFactoryTest</node>
+            <node x="634.5" y="145.5">com.lf.pattern.factory.abstractfactory.ReptileAnimalHabitImpl</node>
+            <node x="156.64285714285717" y="0.0">com.lf.pattern.factory.abstractfactory.IHabit</node>
+            <node x="838.5" y="145.5">com.lf.pattern.factory.abstractfactory.ReptileAnimalLifeImpl</node>
+            <node x="472.6428571428571" y="-18.0">com.lf.pattern.factory.abstractfactory.ILife</node>
+            <node x="119.1964285714285" y="281.0">com.lf.pattern.factory.abstractfactory.MammalAnimalFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.lf.pattern.factory.abstractfactory.MammalAnimalFactory" target="com.lf.pattern.factory.abstractfactory.IAnimalFactory">
+              <point x="36.0" y="-38.5" />
+              <point x="245.1964285714285" y="251.0" />
+              <point x="280.75" y="251.0" />
+              <point x="-43.25" y="38.5" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.MammalAnimalLifeImpl" target="com.lf.pattern.factory.abstractfactory.ILife">
+              <point x="0.0" y="-27.0" />
+              <point x="522.5" y="114.0" />
+              <point x="533.1428571428571" y="114.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.ReptileAnimalLifeImpl" target="com.lf.pattern.factory.abstractfactory.ILife">
+              <point x="0.0" y="-27.0" />
+              <point x="925.0" y="84.0" />
+              <point x="557.3428571428572" y="84.0" />
+              <point x="24.200000000000045" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.MammalAnimalFactory" target="com.lf.pattern.factory.abstractfactory.MammalAnimalLifeImpl">
+              <point x="72.0" y="-38.5" />
+              <point x="281.1964285714285" y="261.0" />
+              <point x="522.5" y="261.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.ReptileAnimalFactory" target="com.lf.pattern.factory.abstractfactory.IHabit">
+              <point x="-69.19999999999999" y="-38.5" />
+              <point x="650.4964285714286" y="241.0" />
+              <point x="227.0" y="241.0" />
+              <point x="227.0" y="94.0" />
+              <point x="237.64285714285717" y="94.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.ReptileAnimalHabitImpl" target="com.lf.pattern.factory.abstractfactory.IHabit">
+              <point x="0.0" y="-27.0" />
+              <point x="726.5" y="94.0" />
+              <point x="302.4428571428572" y="94.0" />
+              <point x="64.80000000000001" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.ReptileAnimalFactory" target="com.lf.pattern.factory.abstractfactory.ReptileAnimalLifeImpl">
+              <point x="34.60000000000002" y="-38.5" />
+              <point x="754.2964285714286" y="251.0" />
+              <point x="925.0" y="251.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.MammalAnimalFactory" target="com.lf.pattern.factory.abstractfactory.ILife">
+              <point x="0.0" y="-38.5" />
+              <point x="209.1964285714285" y="261.0" />
+              <point x="216.0" y="261.0" />
+              <point x="216.0" y="104.0" />
+              <point x="484.74285714285713" y="104.0" />
+              <point x="-48.39999999999998" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.MammalAnimalFactory" target="com.lf.pattern.factory.abstractfactory.MammalAnimalHabitImpl">
+              <point x="-36.0" y="-38.5" />
+              <point x="173.1964285714285" y="251.0" />
+              <point x="108.0" y="251.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.ReptileAnimalFactory" target="com.lf.pattern.factory.abstractfactory.ReptileAnimalHabitImpl">
+              <point x="0.0" y="-38.5" />
+              <point x="719.6964285714286" y="261.0" />
+              <point x="726.5" y="261.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.ReptileAnimalFactory" target="com.lf.pattern.factory.abstractfactory.IAnimalFactory">
+              <point x="-34.599999999999966" y="-38.5" />
+              <point x="685.0964285714285" y="231.0" />
+              <point x="367.25" y="231.0" />
+              <point x="43.25" y="38.5" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.MammalAnimalHabitImpl" target="com.lf.pattern.factory.abstractfactory.IHabit">
+              <point x="0.0" y="-27.0" />
+              <point x="108.0" y="114.0" />
+              <point x="205.2428571428572" y="114.0" />
+              <point x="-32.39999999999998" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.IAnimalFactory" target="com.lf.pattern.factory.abstractfactory.ILife">
+              <point x="43.25" y="-38.5" />
+              <point x="367.25" y="114.0" />
+              <point x="508.94285714285706" y="114.0" />
+              <point x="-24.200000000000045" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.IAnimalFactory" target="com.lf.pattern.factory.abstractfactory.IHabit">
+              <point x="-43.25" y="-38.5" />
+              <point x="280.75" y="94.0" />
+              <point x="270.0428571428572" y="94.0" />
+              <point x="32.400000000000034" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.MammalAnimalFactory" target="com.lf.pattern.factory.abstractfactory.IHabit">
+              <point x="-72.0" y="-38.5" />
+              <point x="137.1964285714285" y="261.0" />
+              <point x="0.0" y="261.0" />
+              <point x="0.0" y="104.0" />
+              <point x="172.84285714285716" y="104.0" />
+              <point x="-64.80000000000001" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.ReptileAnimalFactory" target="com.lf.pattern.factory.abstractfactory.ILife">
+              <point x="69.20000000000005" y="-38.5" />
+              <point x="788.8964285714286" y="261.0" />
+              <point x="1022.0" y="261.0" />
+              <point x="1022.0" y="74.0" />
+              <point x="581.5428571428571" y="74.0" />
+              <point x="48.39999999999998" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.abstractfactory.AbstractFactoryTest" target="com.lf.pattern.factory.abstractfactory.MammalAnimalFactory">
+              <point x="43.25" y="-27.0" />
+              <point x="252.4464285714285" y="383.0" />
+              <point x="254.1964285714285" y="383.0" />
+              <point x="45.0" y="38.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-124.0" y="57.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lf.pattern.factory.methodfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lf.pattern.factory.methodfactory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="104.0">com.lf.pattern.factory.MammalAnimal</node>
+            <node x="363.60833333333335" y="208.0">com.lf.pattern.factory.methodfactory.ReptileAminalFacotry</node>
+            <node x="185.02499999999998" y="0.0">com.lf.pattern.factory.IAnimal</node>
+            <node x="57.85833333333329" y="208.0">com.lf.pattern.factory.methodfactory.MammalAnimaloFactory</node>
+            <node x="181.52499999999998" y="104.0">com.lf.pattern.factory.methodfactory.IAnimalFactory</node>
+            <node x="177.25833333333333" y="312.0">com.lf.pattern.factory.methodfactory.AnimalFactoryTest</node>
+            <node x="358.525" y="104.0">com.lf.pattern.factory.ReptileAminal</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.lf.pattern.factory.methodfactory.IAnimalFactory" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-27.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.AnimalFactoryTest" target="com.lf.pattern.factory.methodfactory.MammalAnimaloFactory">
+              <point x="-57.666666666666686" y="-27.0" />
+              <point x="206.09166666666664" y="287.0" />
+              <point x="151.8583333333333" y="287.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.MammalAnimaloFactory" target="com.lf.pattern.factory.MammalAnimal">
+              <point x="-62.66666666666663" y="-27.0" />
+              <point x="89.19166666666666" y="183.0" />
+              <point x="75.0" y="183.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.MammalAnimaloFactory" target="com.lf.pattern.factory.methodfactory.IAnimalFactory">
+              <point x="62.666666666666686" y="-27.0" />
+              <point x="214.52499999999998" y="183.0" />
+              <point x="207.69166666666663" y="183.0" />
+              <point x="-52.33333333333334" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.AnimalFactoryTest" target="com.lf.pattern.factory.methodfactory.ReptileAminalFacotry">
+              <point x="57.66666666666666" y="-27.0" />
+              <point x="321.425" y="287.0" />
+              <point x="448.10833333333335" y="287.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.MammalAnimal" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-27.0" />
+              <point x="75.0" y="74.0" />
+              <point x="200.02499999999998" y="74.0" />
+              <point x="-60.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.ReptileAminalFacotry" target="com.lf.pattern.factory.methodfactory.IAnimalFactory">
+              <point x="-56.33333333333334" y="-27.0" />
+              <point x="391.775" y="183.0" />
+              <point x="312.3583333333333" y="183.0" />
+              <point x="52.333333333333314" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.ReptileAminalFacotry" target="com.lf.pattern.factory.ReptileAminal">
+              <point x="0.0" y="-27.0" />
+              <point x="448.10833333333335" y="183.0" />
+              <point x="433.525" y="183.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.ReptileAminal" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-27.0" />
+              <point x="433.525" y="84.0" />
+              <point x="290.025" y="84.0" />
+              <point x="30.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.AnimalFactoryTest" target="com.lf.pattern.factory.methodfactory.IAnimalFactory">
+              <point x="-2.8421709430404007E-14" y="-27.0" />
+              <point x="263.7583333333333" y="287.0" />
+              <point x="260.025" y="287.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.ReptileAminalFacotry" target="com.lf.pattern.factory.IAnimal">
+              <point x="56.33333333333334" y="-27.0" />
+              <point x="504.44166666666666" y="183.0" />
+              <point x="519.025" y="183.0" />
+              <point x="519.025" y="74.0" />
+              <point x="320.025" y="74.0" />
+              <point x="60.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.methodfactory.MammalAnimaloFactory" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-27.0" />
+              <point x="151.8583333333333" y="183.0" />
+              <point x="160.5" y="183.0" />
+              <point x="160.5" y="84.0" />
+              <point x="230.02499999999998" y="84.0" />
+              <point x="-30.0" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-270.0" y="-100.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Locale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4338">
+          <caret line="521" column="80" lean-forward="true" selection-start-line="521" selection-start-column="4" selection-end-line="521" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/simplefactory/AnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lf.pattern.factory.simplefactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lf.pattern.factory.simplefactory</OriginalElement>
+          <nodes>
+            <node x="327.0" y="104.0">com.lf.pattern.factory.MammalAnimal</node>
+            <node x="412.0" y="0.0">com.lf.pattern.factory.IAnimal</node>
+            <node x="0.0" y="104.0">com.lf.pattern.factory.simplefactory.AnimalFactory</node>
+            <node x="497.0" y="104.0">com.lf.pattern.factory.ReptileAminal</node>
+            <node x="322.5416666666667" y="208.0">com.lf.pattern.factory.simplefactory.SimpleFactoryTest</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.lf.pattern.factory.simplefactory.AnimalFactory" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-27.0" />
+              <point x="153.5" y="74.0" />
+              <point x="430.75" y="74.0" />
+              <point x="-56.25" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.MammalAnimal" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-27.0" />
+              <point x="402.0" y="84.0" />
+              <point x="468.25" y="84.0" />
+              <point x="-18.75" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.simplefactory.SimpleFactoryTest" target="com.lf.pattern.factory.ReptileAminal">
+              <point x="21.625" y="-27.0" />
+              <point x="430.6666666666667" y="178.0" />
+              <point x="572.0" y="178.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.ReptileAminal" target="com.lf.pattern.factory.IAnimal">
+              <point x="0.0" y="-27.0" />
+              <point x="572.0" y="84.0" />
+              <point x="505.75" y="84.0" />
+              <point x="18.75" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.simplefactory.SimpleFactoryTest" target="com.lf.pattern.factory.simplefactory.AnimalFactory">
+              <point x="-64.875" y="-27.0" />
+              <point x="344.1666666666667" y="188.0" />
+              <point x="76.75" y="188.0" />
+              <point x="-76.75" y="27.0" />
+            </edge>
+            <edge source="com.lf.pattern.factory.simplefactory.SimpleFactoryTest" target="com.lf.pattern.factory.IAnimal">
+              <point x="64.875" y="-27.0" />
+              <point x="473.9166666666667" y="188.0" />
+              <point x="657.5" y="188.0" />
+              <point x="657.5" y="74.0" />
+              <point x="543.2500000000001" y="74.0" />
+              <point x="56.250000000000064" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="143.0" y="132.0" />
+          <SelectedNodes>
+            <node>com.lf.pattern.factory.simplefactory.SimpleFactoryTest</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/abstractfactory/ReptileAnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Calendar">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Calendar</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.Cloneable</node>
+            <node x="" y="">java.util.Calendar</node>
+            <node x="" y="">java.lang.Comparable</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="190.0" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/GregorianCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21508">
+          <caret line="1192" column="29" selection-start-line="1192" selection-start-column="29" selection-end-line="1192" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/MammalAnimaloFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/AnimalFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/util/locale/provider/LocaleProviderAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3781">
+          <caret line="230" column="83" selection-start-line="230" selection-start-column="83" selection-end-line="230" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2432">
+          <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/spi/LocaleServiceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/util/locale/provider/CalendarDataProviderImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/methodfactory/IAnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1009" column="63" selection-start-line="1009" selection-start-column="63" selection-end-line="1009" selection-end-column="63" />
+          <folding>
+            <element signature="e#73319#73320#0" expanded="true" />
+            <element signature="e#73355#73356#0" expanded="true" />
+            <element signature="e#111238#111239#0" expanded="true" />
+            <element signature="e#111300#111301#0" expanded="true" />
+            <element signature="e#118656#118657#0" expanded="true" />
+            <element signature="e#118701#118702#0" expanded="true" />
+            <element signature="e#119914#119915#0" expanded="true" />
+            <element signature="e#119971#119972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lf/pattern/factory/simplefactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com.lf.design.pattern.factory</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
